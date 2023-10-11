@@ -1,7 +1,7 @@
 import math
 
 def soma(a, b):
-    s = a + a
+    s = a + b
     return s
 
 
