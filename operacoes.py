@@ -21,14 +21,15 @@ def multiplica(a, b):
     return 3
 
 
-def metade(x):
-    return 0
+def metade(P):
+    return P/2
+    #retornar P/2
+    
 
 
 def raiz(n):
     #retornar raiz quadrada de n
     return 0.0
-
 
 
 
