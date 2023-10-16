@@ -9,6 +9,21 @@ def sub(x, y):
     s = x - y
     return s
 
+def dobro(n):
+    return 1
+
+
+
+def multiplica(a, b):
+    return 3
+
+
+def metade(x):
+    return 0
+
+
+
+
 
 # testes
 
