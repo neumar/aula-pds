@@ -1,5 +1,8 @@
 import math
 
+a = int(input("Digite um valor a ser somado: "))
+b = int(input("Digite outro valor a ser somado com o primeiro: "))
+
 def soma(a, b):
     s = a + b
     return s
