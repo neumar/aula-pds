@@ -5,6 +5,10 @@ def soma(a, b):
     return s
 
 
+def sub(x, y):
+    s = x - y
+    return s
+
 
 # testes
 
