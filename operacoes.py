@@ -22,6 +22,13 @@ def metade(x):
     return 0
 
 
+def raiz(n):
+    #retornar raiz quadrada de n
+    return 0.0
+
+
+
+
 
 
 
